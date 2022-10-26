@@ -1,7 +1,10 @@
 # Stable_Diffusion
 Different Projects of StableDifussion and Generative Networks for Colab, used mainly to testing.
 
-### - Modified_version_of_Stable_Diffusion_with_🧨_diffusers
+
+### - Stable_Diffusion
+
+### - Prompt_to_prompt_Stable_Diffusion
 
 ### - sd_dreambooth_training
 
