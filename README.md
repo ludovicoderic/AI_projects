@@ -9,3 +9,5 @@ Different Projects of StableDifussion and Generative Networks for Colab, used ma
 ### - sd_dreambooth_training
 
 ### - sd_dreambooth_inference
+
+### - OpenAI_Whisper
