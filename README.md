@@ -1,13 +1,25 @@
-# Stable_Diffusion
-Different Projects of StableDifussion and Generative Networks for Colab, used mainly to testing.
+#AI_Projects
 
+### GAN & Latent Diffusion
+Different Projects of Latent Difussion Models such as StableDifussion and other Generative Networks models and projects, used mainly to testing.
 
-### - Stable_Diffusion
+- Stable_Diffusion
+- Prompt_to_prompt_Stable_Diffusion
+- sd_dreambooth_training
+- sd_dreambooth_inference
 
-### - Prompt_to_prompt_Stable_Diffusion
+### NLP (Natural Language Processing)
+Natural Language Processing Models and projects.
+- OpenAI_Whisper
 
-### - sd_dreambooth_training
+### NN and DL (Neural Networks and Deep Learning)
+Neural Networks and Deep Learning models and projects.
 
-### - sd_dreambooth_inference
+### Reinforcement Learning
+Reinforcement Learning models and projects.
 
-### - OpenAI_Whisper
+### Supervised Learning
+Supervised Learning models and projects.
+
+### Unsupervised Learning
+Unsupervised Learning models and projects.
